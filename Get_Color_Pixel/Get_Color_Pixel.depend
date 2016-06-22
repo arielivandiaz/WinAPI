@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1466563381 source:z:\benedic\codeblocks\get_color_pixel\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<stdio.h>
+
